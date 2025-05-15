@@ -32,7 +32,7 @@ Il gioco utilizza controlli diversi per ciascun giocatore e include effetti sono
 
 1. Clona il repository o scarica i file di progetto
    ```
-   git clone https://github.com/username/hunter-and-prey.git
+   git clone https://github.com/daniloPalladino24/hunter-and-prey.git
    cd hunter-and-prey
    ```
 
