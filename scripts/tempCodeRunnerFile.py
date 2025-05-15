@@ -1,0 +1,1 @@
+collision_check(player1, bullets2, turn)
